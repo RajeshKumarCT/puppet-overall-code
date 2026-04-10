@@ -8,4 +8,4 @@ mod 'puppetlabs-stdlib', '9.4.0'
 # Using SSH URL for authentication
 mod 'xshield_spark',
   :git    => 'git@github.com:RajeshKumarCT/puppet-ct-spark.git',
-  :branch => 'rajesh-testing'
+  :branch => 'production'
