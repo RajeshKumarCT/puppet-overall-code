@@ -1,0 +1,3 @@
+---
+# Common Hiera data for all nodes
+# xshield_spark host assignments are managed via Foreman API, not here
