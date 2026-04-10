@@ -5,6 +5,7 @@
 mod 'puppetlabs-stdlib', '9.4.0'
 
 # ColorTokens XShield Spark Module (from separate repository)
+# Using SSH URL for authentication
 mod 'xshield_spark',
-  :git    => 'https://github.com/RajeshKumarCT/puppet-ct-spark.git',
+  :git    => 'git@github.com:RajeshKumarCT/puppet-ct-spark.git',
   :branch => 'rajesh-testing'
